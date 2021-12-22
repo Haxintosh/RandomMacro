@@ -1,0 +1,2 @@
+# RandomMacro
+THIS IS PURELY EDUCATIONAL.
